@@ -20,3 +20,5 @@ Power BI | DAX | Power Query | Data Visualization
 
 ## 👨‍🎓 Author
 BS Degree Student - IIT Madras
+## 📸 Dashboard Preview
+![Dashboard](FINAL%20DASHBOARD%20RR.png)
